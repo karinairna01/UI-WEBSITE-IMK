@@ -1,0 +1,8 @@
+Topik : Web Skincare
+Simulasi : Form Registrasi Akun Web Skincare
+Penjelasan :
+  Saya membuat simulasi website form untuk registrasi akun para pengguna aplikasi berbasis web mengenai skincare agar pengguna lebih mudah mengakses web tersebut.
+Form registrasi ini dibuat dengan desain yang sederhana namun tetap elegan sesuai topik yang dipilih yaitu mengenai skincare.
+Cara Menggunakan :
+  Cara menggunakan simulasi web ini sangat mudah, pengguna hanya perlu mengisikan data-data yang harus diisi, lalu terdapat tombol 'lanjut' untuk melanjutkan form berikutnya dan tombol 'kembali' untuk kembali ke form sebelumnya.
+Jika sudah selesai mengisikan semua data, pengguna hanya perlu mengirim data dengan klik 'kirim'. Lalu jika berhasil terkirimakan muncul pemberitahuan 'Your Form Successfully Signed Up'. Dan proses registrasi akun pengguna sudah selesai.
